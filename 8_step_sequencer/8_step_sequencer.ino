@@ -1,3 +1,14 @@
+// vim: ft=c
+
+/*
+ * 8 step sequencer for analog synthesizer
+ * for use with an arduino nano, may be used with an uno if the 8 buttons are
+ * not needed.
+ *
+ * rewritten from a project on https://www.lookmumnocomputer.com/projects/#/sequencer-keyboard/
+ *
+ */
+
 //constants for the Arduino pin values
 #define STEP1 2
 #define STEP2 3
